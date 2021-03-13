@@ -1,4 +1,8 @@
+FORKED - NO LONGER ORIGINAL!
+Find original below!
+
 """
+
 
 Phillip M Wilt
 https://github.com/phillwilt/Dual_EC_DRBG
